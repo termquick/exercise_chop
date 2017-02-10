@@ -12,8 +12,10 @@
 - Unit Tests  
 
 # Basic Usage:  
-- ```sh
-//Install Rust
-git clone https://github.com/termquick/exercise_chop.git
-cargo test ``` 
 
+```bash  
+curl -sSf https://static.rust-lang.org/rustup.sh | sh  
+git clone https://github.com/termquick/exercise_chop.git  
+cd exercise_chop  
+cargo test  
+```  
