@@ -1,0 +1,6 @@
+[package]
+name = "chop"
+version = "0.1.0"
+authors = ["Term Quick <termquick@gmail.com>"]
+
+[dependencies]
